@@ -1,0 +1,1 @@
+import{d as s,i as t,o as a,c as _,t as l,f as c,_ as r,b as e}from"./app-070404d7.js";const o=s({__name:"[...all]",setup(f){const{t:n}=t();return(i,p)=>(a(),_("div",null,l(c(n)("not-found")),1))}});typeof e=="function"&&e(o);const m=r(o,[["__file","E:/Github Clone/soso-in/src/pages/[...all].vue"]]);export{m as default};
