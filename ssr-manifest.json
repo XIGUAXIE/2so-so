@@ -1,110 +1,110 @@
 {
   "src/layouts/home.vue": [
-    "/assets/home-818ac173.js"
+    "/assets/home-04e48b46.js"
+  ],
+  "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/_...all_-f75c629a.js"
+  ],
+  "src/pages/[...all].vue": [
+    "/assets/_...all_-f75c629a.js"
+  ],
+  "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/404-d3b5597d.js"
+  ],
+  "src/layouts/404.vue": [
+    "/assets/404-d3b5597d.js"
   ],
   "public/logo.png": [
-    "/assets/about-734af2e1.js",
+    "/assets/about-e4928f72.js",
     "/assets/logo-adbb14fe.png"
   ],
   "README.md": [
-    "/assets/about-734af2e1.js",
+    "/assets/about-e4928f72.js",
     "/assets/logo-adbb14fe.png"
   ],
   "src/pages/about.md": [
-    "/assets/about-734af2e1.js",
+    "/assets/about-e4928f72.js",
     "/assets/logo-adbb14fe.png"
   ],
-  "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...all_-e30629f1.js"
-  ],
-  "src/pages/[...all].vue": [
-    "/assets/_...all_-e30629f1.js"
-  ],
-  "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404-f0d6bdaa.js"
-  ],
-  "src/layouts/404.vue": [
-    "/assets/404-f0d6bdaa.js"
-  ],
   "src/pages/settings.vue": [
-    "/assets/settings-bf48ce23.js"
+    "/assets/settings-69416f49.js"
   ],
   "src/components/BannerLogo.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/page-ccca3026.js"
+    "/assets/page-7fe228e9.js"
   ],
   "src/components/BannerLogo.vue": [
-    "/assets/page-ccca3026.js"
+    "/assets/page-7fe228e9.js"
   ],
   "src/layouts/page.vue": [
-    "/assets/page-ccca3026.js"
+    "/assets/page-7fe228e9.js"
   ],
   "src/stores/user.ts": [
-    "/assets/_name_-a3b85ff4.js"
+    "/assets/_name_-04bb507e.js"
   ],
   "src/pages/u/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_name_-a3b85ff4.js"
+    "/assets/_name_-04bb507e.js"
   ],
   "src/pages/u/[name].vue": [
-    "/assets/_name_-a3b85ff4.js"
+    "/assets/_name_-04bb507e.js"
   ],
   "src/components/ResultItem.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/search-45a2b86b.js",
+    "/assets/search-09278154.js",
     "/assets/search-0d3beac4.css"
   ],
   "src/components/ResultItem.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/search-45a2b86b.js",
+    "/assets/search-09278154.js",
     "/assets/search-0d3beac4.css"
   ],
   "src/components/ResultItem.vue": [
-    "/assets/search-45a2b86b.js",
+    "/assets/search-09278154.js",
     "/assets/search-0d3beac4.css"
   ],
   "src/components/Loading.vue?vue&type=style&index=0&lang.css": [
-    "/assets/search-45a2b86b.js",
+    "/assets/search-09278154.js",
     "/assets/search-0d3beac4.css"
   ],
   "src/components/Loading.vue": [
-    "/assets/search-45a2b86b.js",
+    "/assets/search-09278154.js",
     "/assets/search-0d3beac4.css"
   ],
   "../../404.png": [
-    "/assets/search-45a2b86b.js",
+    "/assets/search-09278154.js",
     "/assets/search-0d3beac4.css"
   ],
   "node_modules/.pnpm/destr@1.2.2/node_modules/destr/dist/index.mjs": [
-    "/assets/search-45a2b86b.js",
+    "/assets/search-09278154.js",
     "/assets/search-0d3beac4.css"
   ],
   "node_modules/.pnpm/ufo@0.8.6/node_modules/ufo/dist/index.mjs": [
-    "/assets/search-45a2b86b.js",
+    "/assets/search-09278154.js",
     "/assets/search-0d3beac4.css"
   ],
   "node_modules/.pnpm/ohmyfetch@0.4.21/node_modules/ohmyfetch/dist/shared/ohmyfetch.d1948a88.mjs": [
-    "/assets/search-45a2b86b.js",
+    "/assets/search-09278154.js",
     "/assets/search-0d3beac4.css"
   ],
   "node_modules/.pnpm/ohmyfetch@0.4.21/node_modules/ohmyfetch/dist/index.mjs": [
-    "/assets/search-45a2b86b.js",
+    "/assets/search-09278154.js",
     "/assets/search-0d3beac4.css"
   ],
   "src/api/fetch.ts": [
-    "/assets/search-45a2b86b.js",
+    "/assets/search-09278154.js",
     "/assets/search-0d3beac4.css"
   ],
   "src/api/index.ts": [
-    "/assets/search-45a2b86b.js",
+    "/assets/search-09278154.js",
     "/assets/search-0d3beac4.css"
   ],
   "src/pages/search.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/search-45a2b86b.js",
+    "/assets/search-09278154.js",
     "/assets/search-0d3beac4.css"
   ],
   "src/pages/search.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/search-45a2b86b.js",
+    "/assets/search-09278154.js",
     "/assets/search-0d3beac4.css"
   ],
   "src/pages/search.vue": [
-    "/assets/search-45a2b86b.js",
+    "/assets/search-09278154.js",
     "/assets/search-0d3beac4.css"
   ],
   "\u0000vite/modulepreload-polyfill": [],
