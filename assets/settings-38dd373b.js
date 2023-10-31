@@ -1,0 +1,1 @@
+import{_ as o,o as t,c,b as e}from"./app-134b94a5.js";const s={},n={class:"mt-4"};function _(i,r){return t(),c("div",n," Todo: 设置 ")}typeof e=="function"&&e(s);const f=o(s,[["render",_],["__file","E:/Github Clone/soso-in/src/pages/settings.vue"]]);export{f as default};

@@ -1,110 +1,110 @@
 {
   "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...all_-ecb58da6.js"
+    "/assets/_...all_-6523eaf3.js"
   ],
   "src/pages/[...all].vue": [
-    "/assets/_...all_-ecb58da6.js"
+    "/assets/_...all_-6523eaf3.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home-29a11b43.js"
-  ],
-  "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404-7cc31aa6.js"
-  ],
-  "src/layouts/404.vue": [
-    "/assets/404-7cc31aa6.js"
-  ],
-  "src/stores/user.ts": [
-    "/assets/_name_-0a5e6294.js"
-  ],
-  "src/pages/u/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_name_-0a5e6294.js"
-  ],
-  "src/pages/u/[name].vue": [
-    "/assets/_name_-0a5e6294.js"
+    "/assets/home-4ed00d4a.js"
   ],
   "src/pages/settings.vue": [
-    "/assets/settings-bb21e8c0.js"
-  ],
-  "src/components/BannerLogo.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/page-c42c1c2d.js"
-  ],
-  "src/components/BannerLogo.vue": [
-    "/assets/page-c42c1c2d.js"
-  ],
-  "src/layouts/page.vue": [
-    "/assets/page-c42c1c2d.js"
+    "/assets/settings-38dd373b.js"
   ],
   "public/logo.png": [
-    "/assets/about-70a251f6.js",
+    "/assets/about-c4ba0613.js",
     "/assets/logo-adbb14fe.png"
   ],
   "README.md": [
-    "/assets/about-70a251f6.js",
+    "/assets/about-c4ba0613.js",
     "/assets/logo-adbb14fe.png"
   ],
   "src/pages/about.md": [
-    "/assets/about-70a251f6.js",
+    "/assets/about-c4ba0613.js",
     "/assets/logo-adbb14fe.png"
   ],
+  "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/404-399aa05d.js"
+  ],
+  "src/layouts/404.vue": [
+    "/assets/404-399aa05d.js"
+  ],
+  "src/stores/user.ts": [
+    "/assets/_name_-51182bb3.js"
+  ],
+  "src/pages/u/[name].vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/_name_-51182bb3.js"
+  ],
+  "src/pages/u/[name].vue": [
+    "/assets/_name_-51182bb3.js"
+  ],
+  "src/components/BannerLogo.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/page-682e7748.js"
+  ],
+  "src/components/BannerLogo.vue": [
+    "/assets/page-682e7748.js"
+  ],
+  "src/layouts/page.vue": [
+    "/assets/page-682e7748.js"
+  ],
   "src/components/ResultItem.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/search-f54aa38c.js",
+    "/assets/search-2f721e44.js",
     "/assets/search-0d3beac4.css"
   ],
   "src/components/ResultItem.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/search-f54aa38c.js",
+    "/assets/search-2f721e44.js",
     "/assets/search-0d3beac4.css"
   ],
   "src/components/ResultItem.vue": [
-    "/assets/search-f54aa38c.js",
+    "/assets/search-2f721e44.js",
     "/assets/search-0d3beac4.css"
   ],
   "src/components/Loading.vue?vue&type=style&index=0&lang.css": [
-    "/assets/search-f54aa38c.js",
+    "/assets/search-2f721e44.js",
     "/assets/search-0d3beac4.css"
   ],
   "src/components/Loading.vue": [
-    "/assets/search-f54aa38c.js",
+    "/assets/search-2f721e44.js",
     "/assets/search-0d3beac4.css"
   ],
-  "../../rimo-touch-fish.png": [
-    "/assets/search-f54aa38c.js",
+  "../../404.png": [
+    "/assets/search-2f721e44.js",
     "/assets/search-0d3beac4.css"
   ],
   "node_modules/.pnpm/destr@1.2.2/node_modules/destr/dist/index.mjs": [
-    "/assets/search-f54aa38c.js",
+    "/assets/search-2f721e44.js",
     "/assets/search-0d3beac4.css"
   ],
   "node_modules/.pnpm/ufo@0.8.6/node_modules/ufo/dist/index.mjs": [
-    "/assets/search-f54aa38c.js",
+    "/assets/search-2f721e44.js",
     "/assets/search-0d3beac4.css"
   ],
   "node_modules/.pnpm/ohmyfetch@0.4.21/node_modules/ohmyfetch/dist/shared/ohmyfetch.d1948a88.mjs": [
-    "/assets/search-f54aa38c.js",
+    "/assets/search-2f721e44.js",
     "/assets/search-0d3beac4.css"
   ],
   "node_modules/.pnpm/ohmyfetch@0.4.21/node_modules/ohmyfetch/dist/index.mjs": [
-    "/assets/search-f54aa38c.js",
+    "/assets/search-2f721e44.js",
     "/assets/search-0d3beac4.css"
   ],
   "src/api/fetch.ts": [
-    "/assets/search-f54aa38c.js",
+    "/assets/search-2f721e44.js",
     "/assets/search-0d3beac4.css"
   ],
   "src/api/index.ts": [
-    "/assets/search-f54aa38c.js",
+    "/assets/search-2f721e44.js",
     "/assets/search-0d3beac4.css"
   ],
   "src/pages/search.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/search-f54aa38c.js",
+    "/assets/search-2f721e44.js",
     "/assets/search-0d3beac4.css"
   ],
   "src/pages/search.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/search-f54aa38c.js",
+    "/assets/search-2f721e44.js",
     "/assets/search-0d3beac4.css"
   ],
   "src/pages/search.vue": [
-    "/assets/search-f54aa38c.js",
+    "/assets/search-2f721e44.js",
     "/assets/search-0d3beac4.css"
   ],
   "\u0000vite/modulepreload-polyfill": [],

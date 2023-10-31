@@ -1,0 +1,1 @@
+import{_ as t,G as s,o as c,c as _,g as e,H as r}from"./app-134b94a5.js";const a={},i={w:"screen",h:"screen",class:"px-4 py-10 text-center"};function m(p,l){const o=r,n=s("router-view");return c(),_("main",i,[e(o),e(n)])}const f=t(a,[["render",m],["__file","E:/Github Clone/soso-in/src/layouts/home.vue"]]);export{f as default};
